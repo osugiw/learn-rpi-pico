@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/home/osugiw/pico/learn-pico-w/wifi_test/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild
+/home/osugiw/pico/learn-pico-w/wifi_test/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild.rule
+/home/osugiw/pico/learn-pico-w/wifi_test/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild-complete.rule
+/home/osugiw/pico/learn-pico-w/wifi_test/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+/home/osugiw/pico/learn-pico-w/wifi_test/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/home/osugiw/pico/learn-pico-w/wifi_test/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/home/osugiw/pico/learn-pico-w/wifi_test/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/home/osugiw/pico/learn-pico-w/wifi_test/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/home/osugiw/pico/learn-pico-w/wifi_test/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/home/osugiw/pico/learn-pico-w/wifi_test/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule
